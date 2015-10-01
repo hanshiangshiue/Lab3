@@ -1,0 +1,6 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = R10;
+NET "clk_out" LOC = H5;
+NET "rst_n" LOC = T2;
